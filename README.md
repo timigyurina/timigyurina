@@ -1,10 +1,10 @@
 ## Hello World! 🌍
 
 #### My name is Timi, a recent graduate of the fullstack developer course at Codecool, from Hungary. 
-##### I am very enthusiastic about learning new things so that one day, I will be able to make a meaningful impact as a senior developer. 🙂
-  
-    
-      
+##### As a developer, I am very enthusiastic about learning new things and also about broadening my current knowledge, one day becoming a successful senior developer. 🙂  
+##### My other interests include learning foreign languages, practicing vinyasa yoga, walking in the nature and in a city, discovering new specialty cafés, and I am also very passionate about animals in general. 🐾  
+<br>
+
 ### Skills and technologies ⚡  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -21,31 +21,31 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-    
-      
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+<br>
+
 ### Education 🎓  
 - Fullstack Developer @ Codecool (2022 - 2023)  
 - Frontend Developer @ Codecool (2021 - 2022)  
 - Management and Leadership MA @ Corvinus University of Budapest (2018 - 2020)  
 - International Business BA @ Corvinus University of Budapest (2014 - 2017)  
-  
-    
-    
-### Projects 🐾  
-1. [Animal Adoption Management System](https://github.com/timigyurina/Animal_Adoption_Management_System_Backend)
-This is the backend of the pet project I am currently working on. Its aim is to make the adoption process of animals from different shelters easier by keeping data in one compex system.
+<br>
+ 
+### Projects :computer:  
+1. [Animal Adoption Management System - Backend](https://github.com/timigyurina/Animal_Adoption_Management_System_Backend)  
+This is the backend of the pet project I am currently working on. Its aim is to make the adoption process of animals from different shelters easier by keeping data in one complex system.
 The application may not be complete, as I am continuously working on the frontend and may need to make updates and extend its functionalities.  
 
-2. [API Wars](https://github.com/CodecoolGlobal/api-wars-react-timigyurina)
-A Codecool project built with the use of the MERN stack. I highly enjoyed this project and therefore I made a well-designed, responsive UI for it.
+1. [Animal Adoption Management System - Frontend](https://github.com/timigyurina/animal_adoption_management_system_frontend)  
+The frontend of my current pet project. It is a UI for the backend API above, made with React.
 
-3. [Grande Hotel System](https://github.com/timigyurina/el-proyecte-grande)
+2. [API Wars](https://github.com/CodecoolGlobal/api-wars-react-timigyurina)  
+A Codecool project built with the use of the MERN stack. I highly enjoyed this project and therefore made a well-designed, responsive UI for it.
+
+3. [Grande Hotel System](https://github.com/timigyurina/el-proyecte-grande)  
 A team project created during four weeks using ASP.NET backend, React frontend and a persistent Postgres database.  
+<br>
 
-  
-  
 More information on my **[LinkedIn](https://www.linkedin.com/in/timea-gyurina/)** 🚀
 
 
